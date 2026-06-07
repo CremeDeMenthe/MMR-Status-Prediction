@@ -1,5 +1,4 @@
 # MMR-Status-Prediction
-# dMMR Prediction from PET-CT and Clinical Data
 
 Deep learning system for predicting **dMMR (deficient Mismatch Repair)** status in colorectal cancer using **PET-CT imaging** and **clinical features**.
 
